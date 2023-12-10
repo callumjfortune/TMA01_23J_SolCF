@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SafeState
+comment0.text=\n\ @author\ (Callum\ Fortune)\n\ @version\ (10/12/23)\n
+comment1.params=
+comment1.target=SafeState()
+comment2.params=
+comment2.target=java.lang.String\ getDisplay()
+comment3.params=
+comment3.target=boolean\ isOpen()
+comment4.params=aCode
+comment4.target=boolean\ open(java.lang.String)
+comment5.params=aCode
+comment5.target=boolean\ isValidUserCode(java.lang.String)
+comment6.params=aCode
+comment6.target=boolean\ lock(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ about()
+numComments=8
